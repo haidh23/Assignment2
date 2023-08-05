@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mTruyen"
+        android:title="Truyện Tranh"
+        android:icon="@drawable/vectortruyentranh"
+        />
+    <item
+        android:id="@+id/mUser"
+        android:title="Người Dùng"
+        android:icon="@drawable/vectoruser"
+        />
+</menu>
